@@ -242,3 +242,5 @@ git branch -M main
 git add .gitignore
 git commit -m "fail_name"
 ```
+
+![полный запрос](FullRequest.png)
